@@ -28,7 +28,7 @@ public class Rabbit implements Runnable {
         for (int index = 0; index < MILESTONE; index++) {
             switch (index) {
                 case 0:
-                    System.out.println("The Rabbit starts from the last line!");
+                    System.out.println("The Rabbit starts from the Start line!");
                     break;
                 case 1:
                     System.out.println("The Rabbit has reached the Cool River!");
